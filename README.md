@@ -15,4 +15,6 @@ seen in fedora 28 outside of centos 7 using "compiz"
 
 tar -xvf fedora-compiz.tar.gz
 <br>
+cd fedora-compiz
+<br>
 rpm -Uvh --force --nodeps *.rpm
