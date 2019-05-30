@@ -14,4 +14,5 @@ seen in fedora 28 outside of centos 7 using "compiz"
 #bugs / could break
 
 tar -xvf fedora-compiz.tar.gz
+<br>
 rpm -Uvh --force --nodeps *.rpm
